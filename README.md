@@ -19,5 +19,5 @@
   <li>En geometría no euclidiana, la curvatura del espacio modifica estas trayectorias; en relatividad general, las geodésicas reemplazan las rectas.</li>
   <li>En nuestro modelo, una nave sigue una trayectoria curva (geodésica) inducida por la "curvatura" generada por la gravedad del Sol.</li>
 </ul>
-
+<h4>🔗 Relación con la conjetura de Poincaré</h4>
 
