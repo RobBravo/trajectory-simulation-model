@@ -1,1 +1,1 @@
-# trajectory-simulation-model
+# Modelo de simulacion de trayectorias en geometrías espaciales complejas
