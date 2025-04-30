@@ -27,6 +27,21 @@
   <li>Nuestro modelo explora cómo el espacio curvo genera trayectorias que reflejan su estructura interna, como las 3-variedades estudiadas en topología.</li>
   <li>Así, mientras Poincaré intentó clasificar formas posibles del espacio tridimensional, aquí trazamos caminos a través de ese espacio curvado, influenciado por masas como el Sol.</li>
 </ul>
+<h4>🧪 Fase 1 – Implementación del modelo:</h4>
+<p>🔸 Supuestos:</p> 
+<ul>
+  <li>Solo el Sol influye gravitacionalmente.</li>
+  <li>Movimiento en 2D (plano eclíptico).</li>
+  <li>La nave sigue una trayectoria afectada por esta “curvatura gravitacional”.</li>
+  <li>Se simula por medio de ecuaciones de movimiento derivadas de una potencial newtoniano deformado.</li>
+</ul>
+
+
+
+
+
+
+
 
 
 
