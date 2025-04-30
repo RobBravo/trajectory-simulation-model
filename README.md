@@ -40,7 +40,7 @@
 <p>2. La curvatura del espacio (implícita)
 Aunque no ves la curvatura directamente, el hecho de que la nave no sigue una línea recta sino una órbita curva es una manifestación implícita de la geometría no euclidiana: el espacio está “deformado” por la masa del Sol.</p>
 <blockquote>En términos de relatividad, la trayectoria calculada es una geodésica en una métrica deformada por masa, aunque aquí se simula con física newtoniana. </blockquote>
-<h3>3. Variables clave a observar:</h3>
+<p>3. Variables clave a observar:<p>
 <ul>
   <li>Excentricidad: Si la trayectoria es cerrada o abierta indica si la nave está en una órbita, va a escapar o caer al Sol.</li>
   <li>Velocidad inicial: Valores bajos hacen que la nave caiga, valores precisos permiten órbitas, valores altos hacen que escape.</li>
