@@ -11,6 +11,7 @@
 </ul>
 <h3>🧠 Concepto base:</h3>
 <h3>🧭 Fase 1:</h3>
+<p>Simular la trayectoria de una nave espacial bajo la influencia gravitacional del Sol en un plano bidimensional, interpretando la gravedad como curvatura del espacio (analogía con geometría no euclidiana).</p>
 
 
 
