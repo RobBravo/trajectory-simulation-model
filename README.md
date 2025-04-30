@@ -35,7 +35,11 @@
   <li>La nave sigue una trayectoria afectada por esta “curvatura gravitacional”.</li>
   <li>Se simula por medio de ecuaciones de movimiento derivadas de una potencial newtoniano deformado.</li>
 </ul>
-<h4>🔍 Analisis de los resulktados</h4>
+<h4>🔍 Analisis de los resultados</h4>
+<p>1. La trayectoria azul Representa el camino que seguiría una nave lanzada desde la Tierra bajo la única influencia gravitacional del Sol. Está modelada como un problema de dos cuerpos en 2D, con el Sol fijo en el origen.</p>
+<p>2. La curvatura del espacio (implícita)
+Aunque no ves la curvatura directamente, el hecho de que la nave no sigue una línea recta sino una órbita curva es una manifestación implícita de la geometría no euclidiana: el espacio está “deformado” por la masa del Sol.</p>
+<blockwuote>En términos de relatividad, la trayectoria calculada es una geodésica en una métrica deformada por masa, aunque aquí se simula con física newtoniana.</blockwuote>
 
 
 
