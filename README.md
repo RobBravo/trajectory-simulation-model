@@ -19,7 +19,7 @@
   <li>En geometría no euclidiana, la curvatura del espacio modifica estas trayectorias; en relatividad general, las geodésicas reemplazan las rectas.</li>
   <li>En nuestro modelo, una nave sigue una trayectoria curva (geodésica) inducida por la "curvatura" generada por la gravedad del Sol.</li>
 </ul>
-<h4>🔗Relación con la conjetura de Poincaré</h4>
+<h3>🔗Relación con la conjetura de Poincaré</h3>
 <p>Aunque la conjetura no trata directamente sobre trayectorias, su demostración con el Ricci flow nos deja una poderosa lección:</p>
 <ul>
   <li>Los espacios curvos pueden evolucionar para revelar su verdadera forma topológica.</li>
@@ -27,7 +27,7 @@
   <li>Nuestro modelo explora cómo el espacio curvo genera trayectorias que reflejan su estructura interna, como las 3-variedades estudiadas en topología.</li>
   <li>Así, mientras Poincaré intentó clasificar formas posibles del espacio tridimensional, aquí trazamos caminos a través de ese espacio curvado, influenciado por masas como el Sol.</li>
 </ul>
-<h4>🧪 Fase 1 – Implementación del modelo:</h4>
+<h3>🧪 Fase 1 – Implementación del modelo:</h3>
 <p>🔸 Supuestos:</p> 
 <ul>
   <li>Solo el Sol influye gravitacionalmente.</li>
@@ -35,12 +35,12 @@
   <li>La nave sigue una trayectoria afectada por esta “curvatura gravitacional”.</li>
   <li>Se simula por medio de ecuaciones de movimiento derivadas de una potencial newtoniano deformado.</li>
 </ul>
-<h4>🔍 Analisis de los resultados</h4>
+<h3>🔍 Analisis de los resultados</h3>
 <p>1. La trayectoria azul Representa el camino que seguiría una nave lanzada desde la Tierra bajo la única influencia gravitacional del Sol. Está modelada como un problema de dos cuerpos en 2D, con el Sol fijo en el origen.</p>
 <p>2. La curvatura del espacio (implícita)
 Aunque no ves la curvatura directamente, el hecho de que la nave no sigue una línea recta sino una órbita curva es una manifestación implícita de la geometría no euclidiana: el espacio está “deformado” por la masa del Sol.</p>
 <blockquote>En términos de relatividad, la trayectoria calculada es una geodésica en una métrica deformada por masa, aunque aquí se simula con física newtoniana. </blockquote>
-<h4>3. Variables clave a observar:</h4>
+<h3>3. Variables clave a observar:</h3>
 <ul>
   <li>Excentricidad: Si la trayectoria es cerrada o abierta indica si la nave está en una órbita, va a escapar o caer al Sol.</li>
   <li>Velocidad inicial: Valores bajos hacen que la nave caiga, valores precisos permiten órbitas, valores altos hacen que escape.</li>
