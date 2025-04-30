@@ -39,7 +39,7 @@
 <p>1. La trayectoria azul Representa el camino que seguiría una nave lanzada desde la Tierra bajo la única influencia gravitacional del Sol. Está modelada como un problema de dos cuerpos en 2D, con el Sol fijo en el origen.</p>
 <p>2. La curvatura del espacio (implícita)
 Aunque no ves la curvatura directamente, el hecho de que la nave no sigue una línea recta sino una órbita curva es una manifestación implícita de la geometría no euclidiana: el espacio está “deformado” por la masa del Sol.</p>
-<blockwuote>En términos de relatividad, la trayectoria calculada es una geodésica en una métrica deformada por masa, aunque aquí se simula con física newtoniana.</blockwuote>
+<blockquote>En términos de relatividad, la trayectoria calculada es una geodésica en una métrica deformada por masa, aunque aquí se simula con física newtoniana. </blockquote>
 
 
 
