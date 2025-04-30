@@ -10,7 +10,7 @@
   <li>Un campo gravitacional modelado como curvatura de espacio.</li>  
 </ul>
 <h3>🧠 Concepto base:</h3>
-
+<h3>🧭 Fase 1:</h3>
 
 
 
