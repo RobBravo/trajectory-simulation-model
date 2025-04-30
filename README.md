@@ -9,7 +9,7 @@
   <li>Scipy.integrate.solve_ivp para resolver sistemas diferenciales.</li>
   <li>Un campo gravitacional modelado como curvatura de espacio.</li>  
 </ul>
-
+<h3>🧠 Concepto base:</h3>
 
 
 
