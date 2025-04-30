@@ -35,7 +35,7 @@
   <li>La nave sigue una trayectoria afectada por esta “curvatura gravitacional”.</li>
   <li>Se simula por medio de ecuaciones de movimiento derivadas de una potencial newtoniano deformado.</li>
 </ul>
-
+<h4>🔍 Analisis de los resulktados</h4>
 
 
 
