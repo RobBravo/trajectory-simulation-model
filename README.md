@@ -46,7 +46,7 @@ Aunque no ves la curvatura directamente, el hecho de que la nave no sigue una l�
   <li>Velocidad inicial: Valores bajos hacen que la nave caiga, valores precisos permiten órbitas, valores altos hacen que escape.</li>
   <li>Forma de la órbita: Te da pistas sobre conservación de energía y momento angular.</li>
 </ul>
-<h4>🎓 Interpretación conceptual:</h4>
+<h3>🎓 Interpretación conceptual:</h3>
 <ul>
   <li>Este modelo demuestra que la presencia de masa distorsiona el movimiento incluso en un entorno simple.</li>
   <li>Es una aproximación clásica al concepto de geodésica en geometría diferencial: el camino “más corto” en un espacio curvado.</li>
