@@ -14,6 +14,10 @@
 <h3>🧭 Fase 1:</h3>
 <p>Simular la trayectoria de una nave espacial bajo la influencia gravitacional del Sol en un plano bidimensional, interpretando la gravedad como curvatura del espacio (analogía con geometría no euclidiana).</p>
 <h4>¿Cómo se relaciona esto con la geometría no euclidiana y diferencial?</h4>
-
+<ul>
+  <li>En geometría euclidiana, las trayectorias (líneas rectas) serían el camino más corto.</li>
+  <li>En geometría no euclidiana, la curvatura del espacio modifica estas trayectorias; en relatividad general, las geodésicas reemplazan las rectas.</li>
+  <li>En nuestro modelo, una nave sigue una trayectoria curva (geodésica) inducida por la "curvatura" generada por la gravedad del Sol.</li>
+</ul>
 
 
